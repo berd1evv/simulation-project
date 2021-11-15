@@ -1,7 +1,7 @@
 # simulation-project
 <h1>This Project is about a circle which moves by itself bouncing off the walls.</h1>
 
-<img src="Screen Shot 2021-11-16 at 4.36.30 AM.png" alt="Screenshot of the app">
+<img src="img/Screen Shot 2021-11-16 at 4.36.30 AM.png" alt="Screenshot of the app">
 
 <h3>Why did I think of this? It is because I suddenly thought of the time when we stil used DVD's and if didn't read the disc or something else happended this loader popped up every time bouncing of the walls.</h3>
 
